@@ -1,5 +1,0 @@
-C:\srikant\examples\NhibernatePoc\NHibernatePoc\Cybage.Domain\bin\Debug\Cybage.Domain.dll
-C:\srikant\examples\NhibernatePoc\NHibernatePoc\Cybage.Domain\bin\Debug\Cybage.Domain.pdb
-C:\srikant\examples\NhibernatePoc\NHibernatePoc\Cybage.Domain\obj\Debug\ResolveAssemblyReference.cache
-C:\srikant\examples\NhibernatePoc\NHibernatePoc\Cybage.Domain\obj\Debug\Cybage.Domain.dll
-C:\srikant\examples\NhibernatePoc\NHibernatePoc\Cybage.Domain\obj\Debug\Cybage.Domain.pdb
