@@ -1,0 +1,16 @@
+C:\srikant\examples\NhibernatePoc\NHibernatePoc\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+C:\srikant\examples\NhibernatePoc\NHibernatePoc\ConsoleClient\bin\Debug\ConsoleClient.exe
+C:\srikant\examples\NhibernatePoc\NHibernatePoc\ConsoleClient\bin\Debug\ConsoleClient.pdb
+C:\srikant\examples\NhibernatePoc\NHibernatePoc\ConsoleClient\bin\Debug\Cybage.Domain.dll
+C:\srikant\examples\NhibernatePoc\NHibernatePoc\ConsoleClient\bin\Debug\Cybage.NhibernateRepository.dll
+C:\srikant\examples\NhibernatePoc\NHibernatePoc\ConsoleClient\bin\Debug\FluentNHibernate.dll
+C:\srikant\examples\NhibernatePoc\NHibernatePoc\ConsoleClient\bin\Debug\Iesi.Collections.dll
+C:\srikant\examples\NhibernatePoc\NHibernatePoc\ConsoleClient\bin\Debug\NHibernate.dll
+C:\srikant\examples\NhibernatePoc\NHibernatePoc\ConsoleClient\bin\Debug\Cybage.Domain.pdb
+C:\srikant\examples\NhibernatePoc\NHibernatePoc\ConsoleClient\bin\Debug\Cybage.NhibernateRepository.pdb
+C:\srikant\examples\NhibernatePoc\NHibernatePoc\ConsoleClient\bin\Debug\FluentNHibernate.xml
+C:\srikant\examples\NhibernatePoc\NHibernatePoc\ConsoleClient\bin\Debug\Iesi.Collections.xml
+C:\srikant\examples\NhibernatePoc\NHibernatePoc\ConsoleClient\bin\Debug\NHibernate.xml
+C:\srikant\examples\NhibernatePoc\NHibernatePoc\ConsoleClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\srikant\examples\NhibernatePoc\NHibernatePoc\ConsoleClient\obj\x86\Debug\ConsoleClient.exe
+C:\srikant\examples\NhibernatePoc\NHibernatePoc\ConsoleClient\obj\x86\Debug\ConsoleClient.pdb
